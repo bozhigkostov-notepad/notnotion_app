@@ -301,24 +301,8 @@ SOFTWARE.
 
 ## 📧 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/notion-note-app/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/notion-note-app/discussions)
-
-## 🗺️ Roadmap
-
-Future features under consideration:
-
-- [ ] Rich text formatting (bold, italic, links)
-- [ ] Markdown support
-- [ ] Dark mode
-- [ ] Tags and labels
-- [ ] Page templates
-- [ ] Multiple export formats (JSON, Markdown, PDF)
-- [ ] Keyboard shortcuts
-- [ ] Page duplication
-- [ ] Trash/undo delete
-- [ ] Cloud sync option
-- [ ] Collaboration features
+- **Issues**: [GitHub Issues](https://github.com/bozhigkostov-notepad/notnotion_app/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/bozhigkostov-notepad/notnotion_app/discussions)
 
 ---
 
