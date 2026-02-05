@@ -30,7 +30,7 @@ A modern, minimalistic note-taking application inspired by Notion, built with Re
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/notion-note-app.git
+git clone https://github.com/bozhigkostov-notepad/notnotion_app.git
 cd notion-note-app
 ```
 
